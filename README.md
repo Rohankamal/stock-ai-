@@ -1,2 +1,3 @@
 # stock-ai-
-This stock ai project
+This is stock ai project
+This contain instruction 
